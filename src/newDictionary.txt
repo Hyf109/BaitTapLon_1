@@ -1,0 +1,3 @@
+snooze,to put sleep temporarily
+run,to move quickly
+hello,cheer someone
